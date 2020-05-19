@@ -5,6 +5,7 @@ Created on Mon May 18 15:07:14 2020
 
 @author: mahi
 """
+#write a program to find the GCD or HCF of any number
 
 def hcf(a,b):
     if (a==0):
