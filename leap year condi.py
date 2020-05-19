@@ -5,6 +5,7 @@ Created on Thu May  7 16:50:33 2020
 
 @author: mahi
 """
+#Write a program to check whether character is an alphabet or not using conditional operator.
 
 def leap_year(year):
     if(year%4==0):
