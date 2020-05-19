@@ -11,4 +11,5 @@ list1=[]
 for i in range(0,x):
     list1.append(i)
 print(list1)
-list1.pop()
+print("the element removed from the list1 is ",list1.pop())
+print(list1)
