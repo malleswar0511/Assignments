@@ -4,7 +4,9 @@
 Created on Thu May  7 16:54:56 2020
 
 @author: mahi
+
 """
+#Write a program to check whether a number is even or odd using bitwise operator.
 
 def odd_even(n):
     if (n&1==1):
