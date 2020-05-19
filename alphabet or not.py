@@ -5,6 +5,7 @@ Created on Thu May  7 16:51:34 2020
 
 @author: mahi
 """
+#Write a program to check whether character is an alphabet or not using conditional operator
 
 def character_alphabet(n):
     if((n>='a' and n<='z')or(n>='A' and n<='Z')):
