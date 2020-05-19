@@ -5,6 +5,7 @@ Created on Thu May  7 16:55:51 2020
 
 @author: mahi
 """
+#Write a program to convert decimal to binary number system using bitwise operator
 
 def dec_bin(n):
     binary=[0]*n
