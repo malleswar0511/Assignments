@@ -5,6 +5,7 @@ Created on Mon May 18 15:39:54 2020
 
 @author: mahi
 """
+#program to set nth bit of a number.py
 
 def nth_bit(m,n):
         return ((1<<n|m))
