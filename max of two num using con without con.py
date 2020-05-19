@@ -5,6 +5,7 @@ Created on Thu May  7 16:52:38 2020
 
 @author: mahi
 """
+#Write a program to find maximum between two numbers with and  without using conditional operator..py
 
 def largest_Number(a, b): 
     return a * (bool)(a // b) +b * (bool)(b // a) 
