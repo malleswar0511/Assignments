@@ -5,6 +5,7 @@ Created on Thu May  7 16:53:10 2020
 
 @author: mahi
 """
+#Write a program to swap two numbers using bitwise operator
 
 x=int(input("enter first value : "))
 y=int(input("enter second value: "))
