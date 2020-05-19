@@ -5,6 +5,7 @@ Created on Thu May  7 15:13:36 2020
 
 @author: mahi
 """
+#Write a program to find maximum between three numbers using conditional operator.
 
 def maximum_number(x,y,z):
     if x>y and x>z:
